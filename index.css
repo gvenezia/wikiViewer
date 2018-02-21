@@ -1,3 +1,44 @@
 html {
     width: 100%;
 }
+
+.wiki-return-element {
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border: 3px solid #ffda6d;
+    border-radius: 10px;
+    height: 0;
+    opacity: 0;
+    transition: .15s ease-out, opacity .5s ease-out;
+}
+
+.wiki-return-element:hover {
+    box-shadow: -10px 10px 10px gray;
+    margin: 0px 0px 20px 20px;
+}
+
+#wiki-container {
+    margin-top: 30px;
+}
+
+#wiki-container a, 
+#wiki-container a:active, 
+#wiki-container a:hover,
+#wiki-container a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+#search-btn {
+    display: none;
+}
+
+#search-value {
+    max-width: 300px;
+    display: inline;
+}
+
+#random-btn {
+    width: 300px;
+    margin-top: 15px;
+}
