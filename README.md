@@ -2,6 +2,11 @@
 
 Try it out on [CodePen](https://codepen.io/gvenezia/full/EQLrGr/)
 
+Update: I've recreated this project as a React app to compare React UI's versus Vanilla UI's.  
+[View the React version's Github repo](https://github.com/gvenezia/wikiViewerReact)  
+[Try the React version on Codepen](https://codepen.io/gvenezia/full/GzQvjN)  
+
+
 ## User Stories
 * Users can type in any word and the 10 top Wikipedia page results will be displayed in a concise fashion
 * Results update automatically as the user types
