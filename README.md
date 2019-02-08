@@ -2,7 +2,7 @@
 
 Try it out on [CodePen](https://codepen.io/gvenezia/full/EQLrGr/)
 
-Update: I've recreated this project as a React app to compare React UI's versus Vanilla UI's.  
+Update: I've recreated this project as a React app to compare a React UI versus a Vanilla UI for a simple app.  
 [View the React version's Github repo](https://github.com/gvenezia/wikiViewerReact)  
 [Try the React version on Codepen](https://codepen.io/gvenezia/full/GzQvjN)  
 
